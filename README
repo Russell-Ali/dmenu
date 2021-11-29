@@ -5,7 +5,9 @@ dmenu is an efficient dynamic menu for X.
 Added Patches
 -------------
 
-+border
++border-option
++line height
++solarized
 +case-insensitive
 +center
 +fuzzyhighlight
