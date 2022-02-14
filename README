@@ -2,22 +2,15 @@ dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
 
-Added Patches
--------------
-
 +border-option
 +line height
-+solarized
 +case-insensitive
 +center
 +fuzzyhighlight
 +fuzzymatch
-+highlight
 +mouse support
 +numbers
-+lines below promt window in fullwidth
-
-colored characters allowed
++lines below promt
 
 Requirements
 ------------
